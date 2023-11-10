@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/task1_reactjs/static/css/main.7dd8b0d0.css",
-    "main.js": "/task1_reactjs/static/js/main.5cbf2069.js",
-    "static/js/787.f56a6655.chunk.js": "/task1_reactjs/static/js/787.f56a6655.chunk.js",
-    "index.html": "/task1_reactjs/index.html",
-    "main.7dd8b0d0.css.map": "/task1_reactjs/static/css/main.7dd8b0d0.css.map",
-    "main.5cbf2069.js.map": "/task1_reactjs/static/js/main.5cbf2069.js.map",
-    "787.f56a6655.chunk.js.map": "/task1_reactjs/static/js/787.f56a6655.chunk.js.map"
+    "main.css": "/task6_reactjs/static/css/main.7dd8b0d0.css",
+    "main.js": "/task6_reactjs/static/js/main.652cdf8b.js",
+    "static/js/787.f56a6655.chunk.js": "/task6_reactjs/static/js/787.f56a6655.chunk.js",
+    "index.html": "/task6_reactjs/index.html",
+    "main.7dd8b0d0.css.map": "/task6_reactjs/static/css/main.7dd8b0d0.css.map",
+    "main.652cdf8b.js.map": "/task6_reactjs/static/js/main.652cdf8b.js.map",
+    "787.f56a6655.chunk.js.map": "/task6_reactjs/static/js/787.f56a6655.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dd8b0d0.css",
-    "static/js/main.5cbf2069.js"
+    "static/js/main.652cdf8b.js"
   ]
 }
